@@ -19,7 +19,6 @@ const Home_V1 = () => {
     return <div>
         <Navbar />
         <Banner />
-        <SearchForm />
         <Aboutv1 />
         <Counter />
         <AboutV2 />
